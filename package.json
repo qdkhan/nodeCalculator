@@ -1,0 +1,21 @@
+{
+  "name": "nodecalculator",
+  "version": "1.0.0",
+  "description": "Node Project For Calculator",
+  "homepage": "https://github.com/qdkhan/nodeCalculator#readme",
+  "bugs": {
+    "url": "https://github.com/qdkhan/nodeCalculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdkhan/nodeCalculator.git"
+  },
+  "license": "ISC",
+  "author": "Qutbuddin Khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  }
+}
